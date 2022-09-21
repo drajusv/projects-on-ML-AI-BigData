@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @drajusv
+#Hey Compute World
+- 👋  I’m @drajusv
 - -  I POST SELF LEARNED UNDERSTANDINGS AND MODULES FOR CODE/FUNCTION REUSE.
 - 👀 I’m interested in computer vision in ml as well as ai.
 - 🌱 I’m currently learning cv with ml.
