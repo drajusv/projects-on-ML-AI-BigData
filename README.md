@@ -6,6 +6,5 @@
 - 📫 How to reach me through mail artofartificials@gmail.com
 
 <!---
-drajusv/drajusv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Here added some of excellent and easy to understand intuitively mini projects like image compression , dimensionality reduction, movie reccomenders all using machine learning algo via sklearn and python, also tried feature pruning using statistical test in R environment. Detailed view on Explanatory Analysis of Data shown.
 --->
