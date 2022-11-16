@@ -3,7 +3,6 @@
 - -  I POST SELF LEARNED UNDERSTANDINGS AND MODULES FOR CODE/FUNCTION REUSE.
 - 👀 I’m interested in computer vision in ml as well as ai.
 - 🌱 I’m currently learning cv with ml.
-- 💞️ I’m looking to collaborate on 3d reconstruction/ modelling.
 - 📫 How to reach me through mail artofartificials@gmail.com
 
 --- ABOUT FILES:
