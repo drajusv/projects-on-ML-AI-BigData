@@ -8,4 +8,4 @@
 
 --- ABOUT FILES:
 Here added some of excellent and easy to understand intuitively mini projects like image compression , dimensionality reduction, movie reccomenders all using machine learning algo via sklearn and python, also tried feature pruning using statistical test in R environment. Detailed view on Explanatory Analysis of Data shown.
-
+Did Faster-RCNN from scratch fro face detection and recognition where used production metadata store neptune ai for scalability.
